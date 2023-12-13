@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project aims to create a language model focused on the body of citizen expressions, utilizing data cleaning methods for improved accuracy. The model is designed to receive an expression and predict the probability of its occurrence.
+This project aims to create a language model focused on the body of Hmashahri expressions, utilizing data cleaning methods for improved accuracy. The model is designed to receive an expression and predict the probability of its occurrence.
 
 ## Dataset - Hamshahri Corpus
 
